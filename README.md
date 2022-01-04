@@ -28,7 +28,7 @@ TUTORIAL:
 5) Copy that block of text that was printed; the one you just found. When pasting it, make sure to format it correctly, so that only the printed block of text, and not anything else, is used as input.
 Here is an example of how to format the output correctly:
 >Raw output "  00:55:03.335  Block,13,105,172,-176,1,-31,6,1.2,6,0,0,0,0,0; Block,196,40,28,54,1,129,6,1.2,6,0,0,0,0,0;  -  Server - Script:12"
- VVVVVV becomes
+>should become
 >Useable input "Block,13,105,172,-176,1,-31,6,1.2,6,0,0,0,0,0; Block,196,40,28,54,1,129,6,1.2,6,0,0,0,0,0;"
 Basically, just delete the information about the time from the front, and the positional data at the back, and remove any spaces.
 
