@@ -9,9 +9,15 @@ Works with transparency, reflectance, and color, but NOT MATERIALS (at least not
 
 --------
 
+This software is free to use, distribute, modify, etc.
+I don't mind
 
 --------
 
+Disclaimer:
+By using this code, you (and/or any collaborators that knowingly work alongside you using this code) agree that I, the original creator of this code, and/or the one providing the source code for this code, do not take any responsibility for anything relating to this code, its use, and its outputs, and that anything relating to but not limited to the aforementioned things are your (and/or any collaborators that knowingly work alongside you using this code's) responsibility alone, and not anyone else's. You (and/or any collaborators that knowingly work alongside you using this code) agree that by using this code, you (and/or any collaborators that knowingly work alongside you using this code) become the sole owner of the instance of the code that you use, and that you (and/or any collaborators that knowingly work alongside you using this code) take full responsibility for any behavior or events, including but not limited to damages, disputes, or lawsuits, towards anything including you (and/or any collaborators that knowingly work alongside you using this code) or anyone else's person, or any belongings, or any being, or any existing or future concept, or anything, in relation to or as a direct or indirect result this code. By using this code, you (and/or any collaborators that knowingly work alongside you using this code) agree you (and/or any collaborators that knowingly work alongside you using this code) will not use this code for illegal or generally nefarious/detestable purposes. By using this code, you agree you become an independent sole owner and proprietor of the used code.
+
+Use at your own risk.
 
 --------
 
