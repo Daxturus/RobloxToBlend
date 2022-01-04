@@ -1,5 +1,7 @@
 # RobloxToBlend
-A somewhat easy method for converting Roblox builds (consisting of simple primitives) to Blender files. This can be useful for making pretty renders of Roblox worlds.
+A somewhat easy method for converting Roblox builds (consisting of simple primitives) to Blender files, WHILE PRESERVING INDIVIDUAL BLOCKS. This can be useful for making pretty renders of Roblox worlds.
+
+If you just need the model, you can already export it using existing tools -- this is useful for when you would like to manipulate individual blocks after import.
 
 Currently supports importing blocks, spheres, and cylinders.
 Works with transparency, reflectance, and color, but not materials (at least not yet.)
