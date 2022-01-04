@@ -24,7 +24,7 @@ for cube in dataList:
     if cube[0] == "Block":
         ox = float(cube[10]) / 180 * math.pi
         oz = float(cube[11]) / 180 * math.pi
-        oy = float(cube[12]) / 180 * math.pi
+        oy = -float(cube[12]) / 180 * math.pi
         bpy.ops.mesh.primitive_cube_add(location=(px, py, pz), rotation=(ox, oy, oz), scale=(sx, sy, sz))
         obj = bpy.context.object
         obj.color = (float(cube[1])/255,float(cube[2])/255,float(cube[3])/255,1)
@@ -35,7 +35,7 @@ for cube in dataList:
         sx = float(cube[7]) / 2
         sz = float(cube[8]) / 2
         sy = float(cube[9]) / 2
-        oy = float(cube[10]) / 180 * math.pi
+        oy = -float(cube[10]) / 180 * math.pi
         ox = float(cube[11]) / 180 * math.pi
         oz = float(cube[12]) / 180 * math.pi
         bpy.ops.mesh.primitive_cylinder_add(location=(px, py, pz), rotation=(ox, oy, oz), scale=(sx, sy, sz))
